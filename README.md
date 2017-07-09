@@ -1,6 +1,8 @@
 # jaipur
 Python jaipur simulator
 
+My apologies for the low code quality in the main jaipur.py file. This was intended to be a rapid development experiment.
+
 Rules: http://www.yucata.de/en/Rules/Jaipur
 Modifications to rules: no tie break condition included. A point tie is considered a tie.
 Only one round is played per game, rather than up to 3.
